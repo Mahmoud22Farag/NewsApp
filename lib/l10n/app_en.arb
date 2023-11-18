@@ -1,0 +1,20 @@
+{
+"pick":"Pick your category \n of interest",
+"app_title":"News App!",
+"categories":"Categories",
+"sports" :"Sports",
+"general":"General",
+"science" :"Science",
+"health":"Health",
+"business":"Business",
+"entertainment":"Entertainment",
+"settings":"Settings",
+"english":"English",
+"arabic":"Arabic",
+"light":"Light",
+"dark":"Dark",
+"theme":"Theme",
+"language":"Language",
+"details":"Details",
+"webviwe":"WebViwe"
+}
